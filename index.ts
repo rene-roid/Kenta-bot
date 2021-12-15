@@ -76,5 +76,4 @@ client.on('ready', async () => {
   .setColor(0x000000)
 })
 
-// client.login(process.env.TOKEN)
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.TOKEN)
